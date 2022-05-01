@@ -1,0 +1,4 @@
+{'bois_rectangle':{'longueur':59.5,'largeur':8.0,'hauteur':6.0,'poids_moule':2425,'poids_savon':2850},
+ 'bois_carre':{'longueur':60.,'largeur':6.0,'hauteur':6.0,'poids_moule':2603,'poids_savon':2080},
+ 'silico_blanc500:{'longueur':10.,'largeur':8.7,'hauteur':6.0,'poids_moule':228,'poids_savon':430}
+}
