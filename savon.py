@@ -5,9 +5,7 @@ import numpy as np
 import pandas as pd
 
 recette = Path.cwd() / 'recette.ini'
-recette = Path(r'C:\Users\ltestut\PycharmProjects\spycollect\scripts\recette.ini')
-recette_computed = Path(r'C:\Users\ltestut\PycharmProjects\spycollect\scripts\recette_updated.ini')
-
+#recette = Path(r'C:\Users\ltestut\PycharmProjects\mishi\recette.ini')
 
 def volume_moule(config):
     "calcul du volume du moule en cm3"
