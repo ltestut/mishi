@@ -1,0 +1,38 @@
+[IDENTITE]
+nom = savon
+date = 30/04/22
+surgras = 9
+
+[QUANTITE]
+ptf = 2421 gr # 1 litre = 1 kg
+pth = 1697 gr 
+soude = 223 gr
+volume moule = 2.421 litre 
+olive = 679 gr
+coco = 509 gr
+karite = 509 gr
+eau = 339 gr
+lait = 170 gr
+
+[LIQUIDES]
+eau = 20
+lait = 10
+
+[HUILES]
+olive = 40
+coco = 30
+karite = 30
+
+[AJOUT]
+argile blanche = 2
+
+[MOULE]
+longueur = 61.
+largeur = 6.3
+hauteur = 6.3
+
+[COEF]
+olive = 0.134
+coco = 0.175
+karite = 0.128
+

@@ -1,0 +1,40 @@
+[IDENTITE]
+nom = zest_avoine
+date = 30/04/22
+surgras = 9
+
+[LIQUIDES]
+eau = 20
+lait avoine = 10
+
+[HUILES]
+olive = 40
+coco = 30
+karite = 30
+
+[MOULE]
+longueur = 80.
+largeur = 8.3
+hauteur = 6.3
+
+[COEF]
+olive = 0.134
+coco = 0.175
+karite = 0.128
+
+[AJOUT]
+argile blanche = 2
+
+[QUANTITE]
+ptf = 
+pth = 
+volume du moule    = 4.183 litre 
+poid total savon   = 4183 gr # 1 litre = 1 kg
+eau = 587 gr
+lait avoine = 293 gr
+poid total huiles  = 2933 gr 
+olive = 1173 gr
+coco = 880 gr
+karite = 880 gr
+soude = 385 gr
+
